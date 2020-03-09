@@ -1,0 +1,8 @@
+A recommendation system is one whereby the sytem checks on your pattern/behavior in your actions and suggests
+a product/service within a similar category of a users habits/likes.
+
+Used by companies/business such as Netflix, e-commerce services etc.
+
+The movies recommendation checks on which movie would be watched/suggested next. 
+
+*It is a simple sytem.
