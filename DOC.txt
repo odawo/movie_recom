@@ -3,6 +3,6 @@ a product/service within a similar category of a users habits/likes.
 
 Used by companies/business such as Netflix, e-commerce services etc.
 
-The movies recommendation checks on which movie would be watched/suggested next. 
+The movies recommendation checks on which movie category would be suggested. 
 
 *It is a simple sytem.
